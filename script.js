@@ -11,11 +11,3 @@ function agregarALaPantalla(value) {
   function limpiarPantalla() {
     document.getElementById('pantalla').value = '';
   }
-
-  function BorrarUltimoCaracter() {
-
-    const valorPantalla = document.getElementById('pantalla').value;
-    const resultado = valorPantalla.substring(0, valorPantalla.length - 1);
-    document.getElementById('pantalla').value = resultado;
-  
-  }
