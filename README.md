@@ -6,6 +6,9 @@
 3. Git **Pull**
 4. etc
 
+Trabajando en pipetraining
+Directorio: practica-ramas-merge.git
+
 > No me quiero ir por las ramas
 > >*Sergie Code*
 
